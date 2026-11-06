@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DE8BA272-BD75-4FB9-8BF0-4E8430C5252D}</ProjectGuid>
+    <ProjectGuid>{23BBC69C-EE14-4B4F-875E-4E9C2BBBD5CF}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Candy_Crush</RootNamespace>
     <AssemblyName>Candy-Crush</AssemblyName>
@@ -93,6 +93,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Paesaggio Incantato di Caramelle.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
