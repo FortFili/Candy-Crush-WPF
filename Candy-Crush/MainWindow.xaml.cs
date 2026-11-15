@@ -23,6 +23,7 @@ namespace Candy_Crush
         public MainWindow()
         {
             InitializeComponent();
+            img.Source = new BitmapImage(new Uri("Assets/Sfondo.png", UriKind.Relative));
         }
     }
 }

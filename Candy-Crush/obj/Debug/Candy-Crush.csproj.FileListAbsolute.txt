@@ -1,0 +1,15 @@
+D:\Grosso\GitHUB\PRIVATE\Candy-Crush-WPF\Candy-Crush\bin\Debug\Candy-Crush.exe.config
+D:\Grosso\GitHUB\PRIVATE\Candy-Crush-WPF\Candy-Crush\bin\Debug\Candy-Crush.exe
+D:\Grosso\GitHUB\PRIVATE\Candy-Crush-WPF\Candy-Crush\bin\Debug\Candy-Crush.pdb
+D:\Grosso\GitHUB\PRIVATE\Candy-Crush-WPF\Candy-Crush\obj\Debug\Candy-Crush.csproj.AssemblyReference.cache
+D:\Grosso\GitHUB\PRIVATE\Candy-Crush-WPF\Candy-Crush\obj\Debug\MainWindow.g.cs
+D:\Grosso\GitHUB\PRIVATE\Candy-Crush-WPF\Candy-Crush\obj\Debug\App.g.cs
+D:\Grosso\GitHUB\PRIVATE\Candy-Crush-WPF\Candy-Crush\obj\Debug\Candy-Crush_MarkupCompile.cache
+D:\Grosso\GitHUB\PRIVATE\Candy-Crush-WPF\Candy-Crush\obj\Debug\Candy-Crush_MarkupCompile.lref
+D:\Grosso\GitHUB\PRIVATE\Candy-Crush-WPF\Candy-Crush\obj\Debug\MainWindow.baml
+D:\Grosso\GitHUB\PRIVATE\Candy-Crush-WPF\Candy-Crush\obj\Debug\Candy-Crush.g.resources
+D:\Grosso\GitHUB\PRIVATE\Candy-Crush-WPF\Candy-Crush\obj\Debug\Candy_Crush.Properties.Resources.resources
+D:\Grosso\GitHUB\PRIVATE\Candy-Crush-WPF\Candy-Crush\obj\Debug\Candy-Crush.csproj.GenerateResource.cache
+D:\Grosso\GitHUB\PRIVATE\Candy-Crush-WPF\Candy-Crush\obj\Debug\Candy-Crush.csproj.CoreCompileInputs.cache
+D:\Grosso\GitHUB\PRIVATE\Candy-Crush-WPF\Candy-Crush\obj\Debug\Candy-Crush.exe
+D:\Grosso\GitHUB\PRIVATE\Candy-Crush-WPF\Candy-Crush\obj\Debug\Candy-Crush.pdb
