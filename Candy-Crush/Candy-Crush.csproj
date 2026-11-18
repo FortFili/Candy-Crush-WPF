@@ -100,5 +100,13 @@
   <ItemGroup>
     <Resource Include="Assets\Sfondo.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\arancione.png" />
+    <Resource Include="Assets\blu.png" />
+    <Resource Include="Assets\gialla.png" />
+    <Resource Include="Assets\rossa.png" />
+    <Resource Include="Assets\verde.png" />
+    <Resource Include="Assets\viola.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
